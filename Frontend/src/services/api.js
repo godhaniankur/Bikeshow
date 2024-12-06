@@ -1,5 +1,5 @@
 
-const BASE_URL = process.env.REACT_APP_BASE_URL
+const BASE_URL = "https://bikeshow.onrender.com/api/v1"
 
 export const endpoint = {
     LONIN_API : BASE_URL + "/login" ,//backend no paath aapavo
